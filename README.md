@@ -1,3 +1,5 @@
+> 🔍 **WhatsMyName Apps** — free username search across 3,165 sites, no sign-up: [whatsmynameapps.us](https://whatsmynameapps.us/) · Android app: [Google Play](https://play.google.com/store/apps/details?id=whatsmyname.app.us)
+
 # WhatsMyName Apps: Free Username Search Across 3,165 Sites
 
 **[WhatsMyName Apps](https://whatsmynameapps.us/)** is a free, browser-based **username search and username lookup** tool. Type a handle once and see, live, where a public profile with that exact name exists across 3,165 websites and social networks. No sign-up, no install.
