@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: WhatsMyName Apps Documentation
+  structure:
+    - type: space
+      key: whatsmynameapps-docs
+      title: Username Search and OSINT Guides
+      path: docs
+      default: true
+      content:
+        directory: ./docs
